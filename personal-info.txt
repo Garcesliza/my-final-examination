@@ -1,0 +1,7 @@
+Name: Analiza Garces
+Gender : Female 
+Age : 20
+Birthday : November 24, 2000 
+Address : Tabunan Matnog Sorsogon
+Status : Single 
+Religion : Roman Catholic 
